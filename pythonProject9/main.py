@@ -1,0 +1,5 @@
+n=input('Введите имя с маленькой буквы')
+s=input('Введите фамилию с маленькой буквы')
+n=n.capitalize()
+s=s.capitalize()
+print(n,s)
